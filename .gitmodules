@@ -1,0 +1,3 @@
+[submodule "store/deepWGBS"]
+	path = store/deepWGBS
+	url = https://github.com/deepPipelines/deepWGBS
